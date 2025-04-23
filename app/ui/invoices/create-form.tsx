@@ -1,3 +1,5 @@
+"use client";
+
 import { createInvoice, State } from "@/app/lib/action";
 import { CustomerField } from "@/app/lib/definitions";
 import { Button } from "@/app/ui/button";
